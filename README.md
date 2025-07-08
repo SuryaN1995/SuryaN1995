@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **DataScience, ML, AI**
 
-- 👨‍💻 All of my projects are available at [https://suryan1995.github.io/](https://suryan1995.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://suryan1995.github.io/)
 
-- 📝 I regularly write articles on [https://medium.com/@surya.n1447](https://medium.com/@surya.n1447)
+- 📝 I regularly write articles on [Medium](https://medium.com/@surya.n1447)
 
 - 💬 Ask me about **Android, DataScience, React, Node**
 
 - 📫 How to reach me **surya.n1447@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iYXCIg2OR1PH9wcviHw5orPr-odlwiJG/view?usp=sharing](https://drive.google.com/file/d/1iYXCIg2OR1PH9wcviHw5orPr-odlwiJG/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://github.com/SuryaN1995/SuryaN1995/blob/main/Surya%20N.pdf)
 
 - ⚡ Fun fact **I am learner with bit of joy in learning**
 
